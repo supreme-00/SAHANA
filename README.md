@@ -7,13 +7,13 @@ This repository contains the code and workflow for Sahana, a small transformer-b
 
 The project focuses on responsible NLP for student well-being, with emphasis on:
 
-low-resource code-mixed data,
+1. low-resource code-mixed data,
 
-emotion classification,
+2. emotion classification,
 
-preliminary crisis-risk indicators,
+3. preliminary crisis-risk indicators,
 
-and a human-in-the-loop escalation design.
+4. and a human-in-the-loop escalation design.
 
 The full implementation (training pipeline, preprocessing, evaluation, and demo) will be pushed within 24 hours.
 
